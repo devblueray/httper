@@ -1,0 +1,10 @@
+{
+  "example.com": {
+    "url": ["example.com"],
+    "path": "./example.com"
+  },
+  "foo.com": {
+    "url": ["localhost"],
+    "path": "./foo.com"
+  }
+}
